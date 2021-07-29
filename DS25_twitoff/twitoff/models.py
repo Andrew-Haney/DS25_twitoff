@@ -1,4 +1,4 @@
-"""SQLAlchemy User and Tweet models for out Database"""
+"""SQLAlchemy User and Tweet models for our Database"""
 from flask_sqlalchemy import SQLAlchemy
 
 """Creates a DB object from SQLAlchemy class"""
