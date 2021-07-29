@@ -1,2 +1,2 @@
 # DS25_twitoff
-Flask web app to compare twitter users
+Flask web app used to compare Twitter users and then make a prediction as to who tweeted it.
